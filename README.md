@@ -11,7 +11,7 @@ The first model applied is a custom CNN architecture,
 The second model applied is the VGGNet architecture
 - the model learning performed only 5 times due to time constraints
 
-Both models have given an accuracy of more that 90%.
+Both models have given an accuracy of more that **90%**.
 
 The project is still in progress, 
 - we will be applying the DenseNet model
